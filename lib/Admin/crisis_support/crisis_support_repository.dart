@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-
+// Scenario 2
 class CrisisSupportRepository {
   // Collection for mental health and emergency hotlines
   final CollectionReference mentalHealthHotline =
