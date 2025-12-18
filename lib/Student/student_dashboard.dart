@@ -613,3 +613,5 @@ class CardButton extends StatelessWidget {
     );
   }
 }
+
+/* Version 2.0.0 - Major UI Update*/
