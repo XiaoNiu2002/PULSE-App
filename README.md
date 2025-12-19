@@ -56,8 +56,5 @@ This prototype is not intended for commercial use but serves as an academic demo
 
 ## Acknowledgments
 - UNIMAS Counselor Department: For providing insights and feedback.
-- TMA3084 Course Coordinator: For guidance and support.
-
-## Testing
-
-
+- TMA3084 Course Coordinator: For guidance and support on application development.
+- TMA4093 Course Coordinator: For guidance and support on maintanence and configuration management.
